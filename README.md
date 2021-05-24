@@ -21,6 +21,10 @@ I create mods, addons, and textures for Minecraft. I also do side projects using
 <img src="https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=111111" alt="Editor Atom">
 </a>
   
+<a href="http://jsfiddle.net/">
+<img src="https://img.shields.io/badge/Editor-JSFiddle-informational?style=flat&logo=jsfiddle&logoColor=white&color=111111" alt="Editor Atom">
+</a>
+  
 <a href="https://www.python.org/downloads/">
 <img src="https://img.shields.io/badge/Editor-IDEL-informational?style=flat&logo=python&logoColor=white&color=111111" alt="Editor IDEL">
 </a>
