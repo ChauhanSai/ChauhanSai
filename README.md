@@ -51,10 +51,6 @@ I create mods, addons, and textures for Minecraft. I also do side projects using
 Cape Pack & The Passcode 2
 
 <p align="center">
-<!--Cape-Pack-->
-<a href="https://github.com/ChauhanSai/Cape-Pack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Cape-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-</a>
 
 <!--The-Passcode-2-->
 <a href="https://github.com/ChauhanSai/The-Passcode-2">
@@ -73,6 +69,11 @@ Cape Pack & The Passcode 2
 Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
 
 <p align="center">
+<!--Cape-Pack-->
+<a href="https://github.com/ChauhanSai/Cape-Pack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Cape-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+
 <!--Plasticator-Texture-Pack-->
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Plasticator-Texture-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
