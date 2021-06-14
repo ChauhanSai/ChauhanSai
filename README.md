@@ -1,7 +1,7 @@
 # ChauhanSai/
 #### Gaming 🎮| Coding 💻| Aviation ✈️ | Modding 🧩 | Minecraft ⛏| YouTube 🎞
 Hi there 👋, this is my GitHub page for all my current and future projects. 
-I create mods, addons, and textures for Minecraft. I also do side projects using JavaScript, Java, Python, HTML, and Swift. 
+I create mods, addons, and textures for Minecraft. I also do [side projects](https://github.com/ChauhanSai/Script-Projects) using JavaScript, Java, Python, HTML, and Swift. 
 
 <p align="center">
   
@@ -60,13 +60,22 @@ I create mods, addons, and textures for Minecraft. I also do side projects using
 </p>
 
 ## 🛠️ Working on...
-Cape Pack & The Passcode 2
+The Passcode 2
 
 <p align="center">
 
 <!--The-Passcode-2-->
 <a href="https://github.com/ChauhanSai/The-Passcode-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=The-Passcode-2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+</p>
+
+### 📜 Script Projects
+<p align="center">
+
+<!--Script-Projects-2-->
+<a href="https://github.com/ChauhanSai/Script-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Script-Projects&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
 </p>
 
@@ -78,7 +87,7 @@ Cape Pack & The Passcode 2
 </p>
 
 ## 📦 Recently Finished...
-Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
+Cape Pack, Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
 
 <p align="center">
 <!--Cape-Pack-->
