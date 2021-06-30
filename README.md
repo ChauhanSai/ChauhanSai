@@ -68,6 +68,26 @@ The Passcode 2
 <a href="https://github.com/ChauhanSai/The-Passcode-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=The-Passcode-2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
+<!--De-creations-->
+<a href="https://github.com/ChauhanSai/The-Passcode-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=De-creations&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+<!--Hmmm-->
+<a href="https://github.com/ChauhanSai/The-Passcode-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Hmmm&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+<!--Infinite-Biomes-->
+<a href="https://github.com/ChauhanSai/The-Passcode-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Infinite-Biomes&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+<!--Mob-Stamps-->
+<a href="https://github.com/ChauhanSai/The-Passcode-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Mob-Stamps&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+<!--World-of-Farming-->
+<a href="https://github.com/ChauhanSai/The-Passcode-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=World-of-Farming&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
 </p>
 
 ### 📜 Script Projects
@@ -99,16 +119,6 @@ Cape Pack, Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Plasticator-Texture-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
-
-<!--XtraDrinks-->
-<a href="https://github.com/ChauhanSai/XtraDrinks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=XtraDrinks&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-</a>
-
-<!--Cobble-Semantics-->
-<a href="https://github.com/ChauhanSai/Cobble-Semantics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Cobble-Semantics&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-</a>
 </p>
 
 ## 📈 My Stats
@@ -124,9 +134,8 @@ Cape Pack, Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanSai&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<br>
-<br>
-<br>
+<br/> <br/> <br/>
+  
 <p align="center">
   <b>See More 🔗🌲:</b><br>
   <a href="https://linktr.ee/chauhansai">
