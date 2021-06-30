@@ -24,10 +24,6 @@ I create mods, addons, and textures for Minecraft. I also do [side projects](htt
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=111111" alt="Language HTML">
 </a>
-  
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=111111" alt="Language Swift">
-</a>
  <br>
 <a href="https://atom.io/">
 <img src="https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=111111" alt="Editor Atom">
@@ -51,10 +47,6 @@ I create mods, addons, and textures for Minecraft. I also do [side projects](htt
   
 <a href="https://notepad-plus-plus.org/downloads/">
 <img src="https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=111111" alt="Editor Notepad++">
-</a>
-  
-<a href="https://apps.apple.com/us/app/swift-playgrounds/id908519492">
-<img src="https://img.shields.io/badge/Editor-Swift Playgrounds-informational?style=flat&logo=swift&logoColor=white&color=111111" alt="Editor Swift Playgrounds">
 </a>
   
 </p>
