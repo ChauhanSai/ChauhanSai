@@ -94,7 +94,7 @@ The Passcode 2
 ### 📅 Upcoming Releases
 <p align="center">
 <a href="https://raw.githubusercontent.com/ChauhanSai/Dev-Timeline/main/Development%20Timeline.png">
-<img src="https://raw.githubusercontent.com/ChauhanSai/Dev-Timeline/main/Development%20Timeline.png" alt="Development Timeline" width="900">
+<img src="https://raw.githubusercontent.com/ChauhanSai/Dev-Timeline/main/Development%20Timeline.png" alt="Development Timeline" width="100%">
 </a>
 </p>
 
@@ -126,12 +126,12 @@ Cape Pack, Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanSai&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<br/> <br/> <br/>
+<br/>
   
 <p align="center">
   <b>See More 🔗🌲:</b><br>
   <a href="https://linktr.ee/chauhansai">
-    <img src="https://raw.githubusercontent.com/ChauhanSai/Dev-Timeline/main/LinkTree.png" alt="QR Code" width="200">
+    <img src="https://raw.githubusercontent.com/ChauhanSai/Dev-Timeline/main/LinkTree.png" alt="QR Code" width="25%">
   </a>
   <br>
   <b>View my Linktree</b><br>
