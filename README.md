@@ -80,10 +80,6 @@ The Passcode 2
 <a href="https://github.com/ChauhanSai/World-of-Farming">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=World-of-Farming&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
-<!--Super-Sleepy-->
-<a href="https://github.com/ChauhanSai/Super-Sleepy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Super-Sleepy&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-</a>
 </p>
 
 ### 📜 Script Projects
@@ -114,6 +110,11 @@ Cape Pack, Plasticator Texture Pack, XtraDrinks, & Cobblestone Semantics
 <!--Plasticator-Texture-Pack-->
 <a href="https://github.com/ChauhanSai/Plasticator-Texture-Pack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Plasticator-Texture-Pack&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+
+<!--Super-Sleepy-->
+<a href="https://github.com/ChauhanSai/Super-Sleepy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Super-Sleepy&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
 </p>
 
