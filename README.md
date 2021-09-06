@@ -1,7 +1,7 @@
 # ChauhanSai/
 #### Gaming 🎮| Coding 💻| Aviation ✈️ | Modding 🧩 | Minecraft ⛏| YouTube 🎞
 Hi there 👋, this is my GitHub page for all my current and future projects. 
-I create mods, addons, and textures for Minecraft. I also do [side projects](https://github.com/ChauhanSai/Script-Projects) using JavaScript, Java, Python, HTML, and Swift. 
+I create mods, addons, and textures for Minecraft. I also do [side projects](https://github.com/ChauhanSai/Script-Projects) using JavaScript, Java, Python, and HTML. 
 
 <p align="center">
   
