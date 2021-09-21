@@ -60,10 +60,6 @@ The Passcode 2
 <a href="https://github.com/ChauhanSai/The-Passcode-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=The-Passcode-2&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
 </a>
-<!--Hmmm-->
-<a href="https://github.com/ChauhanSai/Hmmm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Hmmm&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
-</a>
 <!--Mob-Stamps-->
 <a href="https://github.com/ChauhanSai/Mob-Stamps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSai&repo=Mob-Stamps&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1d1f21" />
