@@ -9,25 +9,29 @@ HTML.
 <p align="center">
 
   <a href="https://atom.io/">
-    <img src="https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=111111" alt="Editor Atom">
+    <img src="https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=atom&logoColor=white&color=5fb57d" alt="JavaScript Editor: Atom" height="30">
   </a>
 
   <a href="http://jsfiddle.net/">
-    <img src="https://img.shields.io/badge/Editor-JSFiddle-informational?style=flat&logo=jsfiddle&logoColor=white&color=111111" alt="Editor Atom">
+    <img src="https://img.shields.io/badge/Editor-JSFiddle-informational?style=for-the-badge&logo=jsfiddle&logoColor=white&color=0084FF" alt="JavaScript Editor: Atom" height="30">
   </a>
 
   <a href="https://www.jetbrains.com/idea/download/">
-    <img src="https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=111111" alt="Editor IntelliJ">
+    <img src="https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=fe2857" alt="Java Editor: IntelliJ" height="30">
   </a>
 
   <a href="https://www.jetbrains.com/pycharm/download/">
-    <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=111111" alt="Editor IntelliJ">
+    <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=0bc6e3" alt="Python Editor: PyCharm" height="30">
   </a>
 
   <a href="https://notepad-plus-plus.org/downloads/">
-    <img src="https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepadplusplus&logoColor=white&color=111111" alt="Editor Notepad++">
+    <img src="https://img.shields.io/badge/Editor-Notepad++-informational?style=for-the-badge&logo=notepadplusplus&logoColor=white&color=48ab53" alt="Editor: Notepad++" height="30">
   </a>
 
+  <br/>
+  <a href="https://wakatime.com/@643e21a9-1d9c-47d2-bec3-be71040c3cb0">
+    <img src="https://wakatime.com/badge/user/643e21a9-1d9c-47d2-bec3-be71040c3cb0.svg?style=for-the-badge" alt="Total Time Coded (Since Mar 2, 22" height="36"/>
+  </a>
 </p>
 
 <h3 align="center">📜 Script Projects </h3>
