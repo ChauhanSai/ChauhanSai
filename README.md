@@ -160,7 +160,7 @@ Hi there 👋, I'm Sai Chauhan, an honors college student at the University of T
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanSai&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21&langs_count=3" />
   </a> -->
   
-  <a href="https://github.com/ChauhanSai">
+  <a href="https://wakatime.com/@ChauhanSai">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChauhanSai&theme=dark" />
   </a>
 
